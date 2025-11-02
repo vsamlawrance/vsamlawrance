@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sam — a passionate Full Stack Developer and UI/UX Designer who loves building impactful digital experiences.<br>💡 I craft intuitive, efficient, and visually appealing applications by blending clean code with thoughtful design.<br>🚀 Always learning, creating, and pushing boundaries with every project.
+👋 Hi, I’m Sam Lawrance, A passionate Full Stack Developer and UI/UX Designer who loves building impactful digital experiences.<br>💡 I craft intuitive, efficient, and visually appealing applications by blending clean code with thoughtful design.<br>🚀 Always learning, creating, and pushing boundaries with every project.
 
 
 ## 🌐 Socials:
